@@ -1,0 +1,9 @@
+#mainList{
+    position: absolute;
+}
+
+#content{
+    position: absolute;
+    left: 12%;
+    top: 5%;
+}
