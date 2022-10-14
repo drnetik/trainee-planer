@@ -1,0 +1,202 @@
+
+maincopy.sql ist in ./daten
+
+user = "lukas", Password = "none"
+user = "root" , Password = ""
+
+------------------------------
+
+packages:
+	node:
+		-http
+		-express
+		-cros
+	mysql:
+		-
+	react:
+		-fs
+		-axios
+		-"react-async"
+		
+
+
+Aufgaben:
+	-liste aller aufgaben
+
+Auszubildener:
+	-Bereits erledigte Aufgaben 	--> liste aller id's (aus 'Aufgaben') Erledigt & nicht Erledigt oder Auszubildener in Aufgaben
+
+Projekte:
+	-Anlegen von Projekten 			--> Umfasst Aufgaben (aus 'Aufgaben') 
+									--> hat Beschreibung 
+									--> Umfasst Nutzer (aus 'Auszubildener')
+
+
+------------------------------
+
+Project has Trainer
+Project realization has Trainee and Trainer with a Project
+Ability implementation has a Project with an Ability 
+
+------------------------------
+
+INSERT INTO trainee (id, firstName, lastName, eMail, description, startDate, endDate) VALUES (0, "Hans", "Schmid", "etwas", "...", "2019-01-02", "2022-05-6");
+
+Trainee:
+-id
+-firtst name
+-last name
+-e-mail
+-Description
+-start_date
+-end_date
+
+Trainer:
+-id
+-firts name
+-last name
+-e-main
+
+Project:
+-id
+-Description
+-trainer_id
+-Task Description
+-Goal Description
+-playbook
+
+Ability:
+-id
+-Topic
+-child_topic
+-length
+-step
+-weeks
+-part
+-content
+-description
+
+
+Topic:
+-id
+-Description
+-belongs_to_topic_id
+
+Project realization:
+-Trainer_id
+-Trainee_id
+-Project_id
+-semester <1..6>
+
+Ability implementation:
+-Ability_id
+-Project_id
+
+completed abilitys:
+-topic_id
+-Trainee_id
+
+------------------------------
+
+Ausgabe:
+	-Übersicht von Projekten 
+	-Überischt von Aufgaben sortiert nach json
+	-Ausgabe erledigte Aufgaben
+	-Ausgabe nicht erldedigte Aufgaben
+
+--------------------
+CREATE TABLE trainee(
+id Varchar(16),
+firstName Longtext,
+lastName Longtext, 
+eMail Longtext,
+description Longtext,
+startDate Date,
+endDate Date);
+--------------------
+CREATE TABLE trainer(
+id Varchar(16),
+firstName Longtext,
+lastName Longtext, 
+eMail Longtext);
+--------------------
+CREATE TABLE project(
+id Varchar(16),
+description Longtext,
+trainerId Varchar(16),
+taskDescritpion Longtext,
+goalDescription Longtext,
+playbook Longtext);
+---------------------
+CREATE TABLE ability(
+id Varchar(16),
+length Varchar(5),
+topicID Varchar(16),
+content Longtext,
+description Longtext);
+----------------------
+CREATE TABLE topic(
+id Varchar(16),
+topicDescription Longtext,
+subTopic Longtext);
+----------------------
+CREATE TABLE project_realization(
+trainerId Varchar(16),
+traineeId Varchar(16),
+projectId Varchar(16),
+semester Varchar(4));
+----------------------
+CREATE TABLE ability_implementation(
+abilityId Varchar(16),
+projectId Varchar(16));
+----------------------
+CREATE TABLE completed_ability(
+abilityId Varchar(16),
+traineeId Varchar(16));
+
+----------------------
+
+TODO:
+react react json --> :(
+add relation function (backend)
+
+database:
+
+	[x]-tables for done abilitys
+		-->ability ID & trainee ID
+
+	[x]-make tables		
+	[x]-make ability - Topic relation
+	[x]-make user
+	[x]-delete user
+	[x]-change name, E-main, etc
+	[ ]-make Project
+	   -with ability implementation
+	[x]-make project person realtion
+	[ ]-the rest
+
+backend:
+	[ ]-translate url req to mysql
+		-project
+			-->new project
+				-->ability implementation [x]
+			-->change project relation [x]
+			-->change project content [x]
+		-trainee
+			-->change content [x]
+			-->new one [x]
+			-->delete [x]
+		-trainer
+			-->change content [x]
+			-->new one [x]
+			-->delete [x]
+		-relations 
+			-->project_realization [x]
+			-->ability_implementation [x]
+
+frontend:
+	-main page:
+	-->left- ,mid- ,rightpart
+	left: select from topics
+	mid: show some content of topic
+	right: detailed view of single item

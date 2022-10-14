@@ -1,0 +1,754 @@
+{
+    "1-18":
+    {
+        "schritt a":
+        {
+            "Thema":"berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten",
+            "ThemenBereiche":
+            [
+                {
+                    "nummer":1,
+                    "name":"Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen Geschäfts- und Leistungsprozessen",
+                    "wochen":"12",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Grundsätze und Methoden des Projektmanagements anwenden",
+                            "beschreibung":"Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten nach aktuell gängigen Projektmanagementstandards -Anwendung von Methoden, Hilfsmitteln, Techniken und Kompetenzen in einem Projekt, z. B.: ●rojektplan ●Meilensteine ●Risikoanalyse ●Standards und Normen ●Projektmanagementsysteme -Basiskenntnisse des Veränderungsmanagements -Unterscheiden verschiedener Projektmanagementmethoden und Vorgehensmodelle, z. B.: ●agiles Projektmanagement ●VModell ●Spiralmodell ●Wasserfallmodell"
+                        },
+                        {
+                            "inhalt":"Auftragsunterlagen und Durchführbarkeit des Auftrags prüfen, insbesondere in Hinblick auf rechtliche, wirtschaftliche und terminliche Vorgaben, und den Auftrag mit den betrieblichen Prozessen und Möglichkeiten abstimmen",
+                            "beschreibung":"Beachten der Voraussetzungen im eigenen Arbeitsumfeld -Definieren von Aufgaben, Rollen und Verantwortlichkeiten für alle Projektbeteiligten, z. B.: ●Projekt-Auftraggeber ●Projektleiter ●Projekt-Steuerkreis ●Projektmitarbeiter"
+                        },
+                        {
+                            "inhalt":"Zeitplan und Reihenfolge der Arbeitsschritte für den eigenen Arbeitsbereich festlegen",
+                            "beschreibung":"fDefinieren und Festlegen von Arbeitspaketen und AbhängigkeitenfErleichterung der Planung und der Fortschrittskontrolle durch Aufteilung des Arbeits- bzw. Projektverlaufs in überprüfbare Etappen mit ZwischenzielenfUmsetzung der Arbeitspakete in konkrete Handlungen und Messen anhand von Prüfkriterien fggf. Ableiten einer Prognose für den weiteren Fortschritt bzw. den Endtermin"
+                        },
+                        {
+                            "inhalt":"Termine planen und abstimmen sowie Terminüberwachung durchführen",
+                            "beschreibung":"fNutzung verschiedener ProjektmanagementsystemefErstellung von Projektstrukturplänen zur Gliederung von Projekten in plan- und kontrollierbare Elemente fvollständige Erfassung aller relevanten Tätigkeiten eines Projektes (funktionsorientierte, objektorientierte oder zeitorientierte Gliederung) im Top-down-, Bottom-up- oder Yo-Yo-AnsatzfVisualisierung, z. B.:●Netzplantechnik●Scrum Board●Kanban Board●Gantt-Diagramme"
+                        },
+                        {
+                            "inhalt":"Probleme analysieren und als Aufgabe definieren sowie Lösungsalternativen entwickeln und beurteilen",
+                            "beschreibung":"fAnalysieren im Sinne von Erkennen und EinordnenfProblemlösungsvarianten entwickelnfProbleme beseitigen durch, z. B.: ●Situationsanalyse●Problemeingrenzung●Aufzeigen von Alternativen●Auswahl von Lösungen●Analysieren der Chancen und Risiken der ausgewählten Lösung anhand vorher definierter Beurteilungskriterien"
+                        },
+                        {
+                            "inhalt":"Arbeits- und Organisationsmittel wirtschaftlich und ökologisch unter Berücksichtigung der vorhandenen Ressourcen und der Budgetvorgaben einsetzen",
+                            "beschreibung":"fBerücksichtigung der Formen von Arbeitsorganisation, z. B.:●Gruppenarbeit●Pair ProgrammingfBudgetplanung als Teil der Unternehmensplanungfeffektiver und effizienter Einsatz von Arbeits- und OrganisationsmittelnfPrüfung des Ressourceneinsatzes auf: ●rechtliche Zulässigkeit●technische und organisatorische Machbarkeit●ökologische Nachhaltigkeit und WirtschaftlichkeitfPrüfung der Wirtschaftlichkeit mittels betriebswirtschaftlicher Methoden, z. B.:●Rentabilitätsrechnung●Amortisationsrechnung"
+                        },
+                        {
+                            "inhalt":"Aufgaben im Team sowie mit internen und externen Kunden und Kundinnen planen und abstimmen",
+                            "beschreibung":"fTeam als soziales Gefüge verstehen („social awareness“)fPhasen der Teamentwicklung kennen und anwenden (Konflikt, Kontrakt, Kooperation)fMethoden des sachbezogenen Verhandelns kennen und anwenden, z. B.:●Win-win-Strategie●Harvard-Konzeptfadressatengerechte Kommunikation"
+                        },
+                        {
+                            "inhalt":"betriebswirtschaftlich relevante Daten erheben und bewerten und dabei Geschäfts- und Leistungsprozesse berücksichtigen",
+                            "beschreibung":"fBewerten anhand vorgegebener unternehmensspezifischer Daten"
+                        },
+                        {
+                            "inhalt":"eigene Vorgehensweise sowie die Aufgabendurchführung im Team reflektieren und bei der Verbesserung der Arbeitsprozesse mitwirken",
+                            "beschreibung":"fgemeinsame kritische Analyse der bisherigen Zusammenarbeit und der Ergebnisse („lessons learnt“)foffenes Ansprechen von Erfolgen und Problemen fgemeinsame Entwicklung von Maßnahmen zur Verbesserung, z. B. SCRUM-Retrospektivefkonstruktive Kritik"
+                        }
+                    ]
+                },
+                {
+                    "nummer":2,
+                    "name":"Informieren und Beraten von Kunden und Kundinnen",
+                    "wochen":"3",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"im Rahmen der Marktbeobachtung Preise, Leistungen und Konditionen von Wettbewerbern vergleichen",
+                            "beschreibung":"fPrimär- und SekundärforschungfUnterscheiden und Nutzen von Erhebungsmethoden, z. B.:●Benchmark●Befragungen●Data Mining fMarktbeobachtung und Marktanalyse mit Marktdaten als Grundlage, z. B.:●Preisentwicklungen●Struktur der Anbieter●Produktqualitäten"
+                        },
+                        {
+                            "inhalt":"Bedarfe von Kunden und Kundinnen feststellen sowie Zielgruppen unterscheiden",
+                            "beschreibung":"fFeststellung des Bedarfs an Waren, Dienstleistungen oder Personal in einer bestimmten Region, einer bestimmten Personengruppe oder in einem bestimmten Zeitraum, z. B.:●Zielgruppendefinitionen●Kundentypologien●Konsumverhalten"
+                        },
+                        {
+                            "inhalt":"Kunden und Kundinnen unter Beachtung von Kommunikationsregeln informieren sowie Sachverhalte präsentieren und dabei deutsche und englische Fachbegriffe anwenden",
+                            "beschreibung":"fArgumentations- und Präsentationstechniken fzielgruppengerechte und lösungsorientierte Vorstellung von Produkten und Ergebnissen "
+                        },
+                        {
+                            "inhalt":"Maßnahmen für Marketing und Vertrieb unterstützen",
+                            "beschreibung":"fStärken-Schwächen-Analyse (SWOT etc.)fBegleiten von IT-VertriebsprozessenfMotive und Werte der Kunden"
+                        },
+                        {
+                            "inhalt":"Informationsquellen auch in englischer Sprache aufgabenbezogen auswerten und für die Kundeninformation nutzen",
+                            "beschreibung":"funterschiedliche Quellen nutzen und bewerten, z. B.:●Internet und Intranet●Fachliteratur●technische Dokumentationenfkombinierte Suchabfragen unter Verwendung von SuchoperatorenfBerücksichtigung der geltenden Compliance-Regelungen, Ethik"
+                        }
+                    ]
+                },
+                {
+                    "nummer":3,
+                    "name":"Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen",
+                    "wochen":"10",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"marktgängige IT-Systeme für unterschiedliche Einsatzbereiche hinsichtlich Leistungsfähigkeit, Wirtschaftlichkeit und Barrierefreiheit beurteilen",
+                            "beschreibung":"fIT-Systeme anhand ihres wirtschaftlichen Nutzens zum Unternehmenserfolg bewertenfGegenüberstellen von Kosten-Nutzenftechnische Leistungskriterien verschiedener IT-Systeme vergleichen und bewerten fintuitive Bedienungfbarrierefreier Zugriff auf IT-Systeme, z. B.: ●einfache Sprache●Braille●Spracheingabe- und -ausgabe"
+                        },
+                        {
+                            "inhalt":"Angebote zu IT-Komponenten, IT-Produkten und IT-Dienstleistungen einholen und bewerten sowie Spezifikationen und Konditionen vergleichen",
+                            "beschreibung":"fAngebotsvergleiche, z.B. quantitative und qualitative VergleichefGegenüberstellung Eigenfertigung oder Fremdbezug (Make or buy) fpartieller/gewichteter PreisvergleichfAusschreibung von LeistungenfBeschreibung von Leistungen, z. B.:●Pflichten- und Lastenheft●LeistungsverzeichnisfEinholung bzw. Bewertung von Angebotenfaus den Angeboten verschiedener Lieferanten das am besten geeignete Angebot identifizieren, z. B. mithilfe der Nutzwertanalyse"
+                        }
+                    ]
+                },
+                {
+                    "nummer":4,
+                    "name":"Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+                    "wochen":"5",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"IT-Systeme zur Bearbeitung betrieblicher Fachaufgaben analysieren sowie unter Beachtung insbesondere von Lizenzmodellen, Urheberrechten und Barrierefreiheit konzeptionieren, konfigurieren, testen und dokumentieren",
+                            "beschreibung":"fPotenziale von IT-Systemen bzw. einem Verbund verschiedener Arten erkennenfBestimmungen der Barrierefreiheit bei der Auswahl sowie der Einrichtung moderner Informations- und Kommunikationstechnik (Hard- und Software) berücksichtigenfBasiswissen IT-Servicemanagement und darin verwendeter Methoden und Verfahren, z. B.:●ITIL●CobiT●MOF●ISO 20000fBestimmungen zur IT-Sicherheit (IT-Security) bei allen eingesetzten Hardware- und Softwaresystemen bzw. Infrastrukturen für eine Sicherheit der Informationsverarbeitung und auch der Kommunikation (Daten- bzw. Informationssicherheit) kennen und einhalten"
+                        },
+                        {
+                            "inhalt":"Programmiersprachen,   insbesondere prozedurale und objektorientierte Programmiersprachen, unterscheiden",
+                            "beschreibung":"fVor- und Nachteile verschiedener Programmierparadigmen kennen und Programmiersprachen nach Sprachhöhe unterscheidenfIdentifikation und Auswahl einer für das jeweilige „Realweltproblem” passenden SprachefBasiswissen Softwarelogik und grundlegende Programmelemente, z. B.:●Darstellungsformen für Programmabläufe●Aussagenlogik●Programmstrukturen●Datenstrukturen●Algorithmen●Objekte●Klassen●Variablen●Zuweisungen●Bedingungen/Verzweigungen●Schleifen"
+                        }
+                    ]
+                },
+                {
+                    "nummer":5,
+                    "name":"Durchführen und Dokumentieren von qualitätssichernden Maßnahmen ",
+                    "wochen":"4",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"betriebliche   Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden und Qualitätssicherungs- maßnahmen projektbegleitend durchführen und dokumentieren",
+                            "beschreibung":"fNutzen der QS-Systeme im betriebseigenen Umfeld steht hier im Vordergrundfan der ständigen Verbesserung des betriebseigenen QS-Systems mitarbeitenfModelle und Standards einordnen, z. B.:●EFQM●QS-Normen ISO 9000-9004●Six SigmafVerbesserung der Prozessqualität, der Arbeitsqualität und damit der Produkt- und Dienstleistungsqualität (Stichwort: prozessorientiertes QM-System)fvorrangiges Ziel ist die Sicherstellung der vorgegebenen Qualität, ein höherwertiges Ergebnis ist nicht das primäre Ziel"
+                        }
+                    ]
+                },
+                {
+                    "nummer":6,
+                    "name":"Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz",
+                    "wochen":"6",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"betriebliche Vorgaben und rechtliche Regelungen zur IT-Sicherheit und zum Datenschutz einhalten",
+                            "beschreibung":"fNutzen und stetes Anwenden der betriebseigenen Regelungen zur IT-Sicherheit und für den DatenschutzfAnwenden des organisationsinternen Prozesses zur Gewährleistung der IT-Sicherheit und des Datenschutzes (IT-Sicherheitsmanagement)fnormierte VorgehensweisefVerwendung von Standards"
+                        },
+                        {
+                            "inhalt":"Sicherheitsanforderungen von IT-Systemen analysieren und Maßnahmen zur IT-Sicherheit ableiten, abstimmen, umsetzen und evaluieren",
+                            "beschreibung":"fAnwenden aktueller Standards, z. B.:●ISO 27001●ISO 27002fAnwenden von Vorschriften, z. B.:●BDSG●Basel II und III●SOX●DSGVOfAnwenden von Evaluierungstechniken zur IT-Sicherheit (IT-Grundschutz-Handbuch) fVerhindern oder Abwehr von Gefahren für die Informationssicherheit oder Bedrohungen des Datenschutzes, z. B. durch Etablierung eines IT-Sicherheitsmanagements (ISMS) unter Verwendung von Standards wie IT-Grundschutz, ISO/IEC 27001fIdentifizieren und Umsetzen von SicherheitsmaßnahmenfErreichen eines mittleren, angemessenen und ausreichenden Schutzniveaus für IT-Systeme durch technische Sicherheitsmaßnahmen und infrastrukturelle, organisatorische und personelle Schutzmaßnahmen"
+                        }
+                    ]
+                },
+                {
+                    "nummer":7,
+                    "name":"Erbringen der Leistungen und Auftragsabschluss",
+                    "wochen":"7",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Leistungen nach betrieblichen und vertraglichen Vorgaben dokumentieren",
+                            "beschreibung":"fAbstimmen der zu erwartenden Ergebnisse hinsichtlich betrieblicher und vertraglicher Rahmenbedingungen mit dem AuftraggeberfDokumentation der Vereinbarung, z. B. mittels Pflichtenheft oder AnforderungskatalogfDokumentation von Arbeits- und Projektzeiten (aktuell, flächendeckend und realistisch)fZeiterfassung als Bestandteil des Projektmanagements und ControllingsfPersonaleinsatzplanung auf Basis der Arbeits- und Projektzeiterfassung"
+                        },
+                        {
+                            "inhalt":"Leistungserbringung unter Berücksichtigung der organisatorischen und terminlichen Vorgaben mit Kunden und Kundinnen abstimmen und kontrollieren",
+                            "beschreibung":"fAbstimmen der dokumentierten Vorgaben zur Leistungserbringung während des gesamten Zeitraums mit dem Auftraggeberfkontinuierliche Prüfung der erfolgreichen Umsetzung und Ergebnisse sowie der zeitlichen Einhaltung fggf. Berücksichtigung der Stilllegung von Altsystemen und Inbetriebnahme der neuen SystemefAufbewahrung von Archivdatenfvollständige Dokumentation der erbrachten Leistung"
+                        },
+                        {
+                            "inhalt":"Veränderungsprozesse begleiten und unterstützen",
+                            "beschreibung":"fmotivierte Herangehensweise und Betonung der ChancenfAnreichern mit eigenem Know-how fVoranbringen schnell und in geeigneter Weise unterstützenfFragen beantworten, informieren und zuhörenfDarstellung der Veränderungsschritte, z. B. anhand der sieben Phasen eines Change-Prozesses"
+                        },
+                        {
+                            "inhalt":"Kunden und Kundinnen in die Nutzung von Produkten und Dienstleistungen einweisen",
+                            "beschreibung":"fUnterstützung bei der Umsetzung von Schulungsangeboten fDurchführung von Einführungsveranstaltungen (auch begleitende Unterstützung vor Ort)fHervorhebung der Vorteile und Nutzen-Argumentation fzielorientierte Vorgehensweise"
+                        },
+                        {
+                            "inhalt":"Leistungen und Dokumentationen an Kunden und Kundinnen übergeben sowie Abnahmeprotokolle anfertigen",
+                            "beschreibung":"fvor der Abnahme: Prüfung der Funktionsfähigkeit sowie Installation und PersonalschulungfAbnahmeprotokoll mit Angaben zu Vollständigkeit, Funktionseignung und Schadensfreiheit des geprüften Werks erstellenfzusätzlich Aufnahme nicht geprüfter Abnahmekriterienfnötige Unterlagen zur Einführung und Umsetzung der Ergebnisse bereitstellen und übergeben, z. B.:●Planungsunterlagen●Angaben zu genutzten Systemen und DatenfBedeutung und Moment der Abnahme verdeutlichenfAbgleich mit der Sollspezifikation durchführen und protokollieren"
+                        },
+                        {
+                            "inhalt":"Kosten für erbrachte Leistungen erfassen sowie im Zeitvergleich und im Soll-Ist-Vergleich bewerten",
+                            "beschreibung":"fDokumentation der angefallenen Kosten anhand einer Kostenaufstellung und der wirtschaftlichen Leistungserbringung erstellenfBewerten und Dokumentieren der erbrachten Leistungen anhand der anfänglichen Abstimmung der betrieblichen und vertraglichen VereinbarungenfErfüllen oder Abweichen von der Vereinbarung dokumentierenferbrachte Leistungen bestätigen lassen"
+                        }
+                    ]
+                },
+                {
+                    "nummer":8,
+                    "name":"Betreiben von IT-Systemen",
+                    "wochen":"3",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Netzwerkkonzepte   für unterschiedliche Anwendungsgebiete unterscheiden",
+                            "beschreibung":"fBerücksichtigung von möglichen Anwendungsfällen und Konzepten beim Einsatz von kabelgebundenen und kabellosen Netzwerken, z. B.:●LAN/WAN ●WLAN/WWANfBerücksichtigung und Unterscheidung von Einsatzgebieten für Technologien wie Switching und Routing sowie virtuellen Lösungen wie beispielsweise VPN und VLAN fBerücksichtigung des Einsatzes von mobilen Endgeräten in unterschiedlichen Anwendungsfällen"
+                        },
+                        {
+                            "inhalt":"Datenaustausch von vernetzten Systemen realisieren",
+                            "beschreibung":"fImplementieren und Konfigurieren von Übertragungsprotokollen und -komponenten für den Austausch von Daten, z. B.:●Datenaustausch zwischen Client●Server und PeripheriefUnterscheiden von möglichen Lösungen zum Datenaustausch unter Berücksichtigung des vorliegenden Netzwerkkonzeptes, z. B. beim Einsatz von Cloudanwendungen oder VPN"
+                        },
+                        {
+                            "inhalt":"Verfügbarkeit und Ausfallwahrscheinlichkeiten analysieren und Lösungsvorschläge unterbreiten",
+                            "beschreibung":"fAnalyse der Möglichkeiten zur Absicherung von bestehenden Systemen fErstellen einer Übersicht der Komponenten und Funktionen, z. B.:●Redundanzen (RAID)●USV-AbsicherungenfAufzeigen von Notfallszenarien und passender Möglichkeiten zur Wiederherstellung"
+                        },
+                        {
+                            "inhalt":"Maßnahmen zur präventiven Wartung und zur Störungsvermeidung einleiten und durchführen",
+                            "beschreibung":"fVerwenden von Monitoring-Systemen zur Überwachung des Systems und von AnwendungenfÜberwachen der Systemlast im Betrieb (systemabhängige Schwellenwerte)fBeobachten von Tendenzen und Ziehen von Rückschlüssen auf mögliche Auswirkungen im Betriebsablauf"
+                        }
+                    ]
+                },
+                {
+                    "nummer":9,
+                    "name":"Inbetriebnehmen von Speicherlösungen",
+                    "wochen":"0",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"-",
+                            "beschreibung":"-"
+                        }
+                    ]
+                },
+                {
+                    "nummer":10,
+                    "name":"Programmieren von Softwarelösungen ",
+                    "wochen":"5",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Programmspezifikationen   festlegen, Datenmodelle und Strukturen aus fachlichen Anforderungen ableiten sowie Schnittstellen festlegen",
+                            "beschreibung":"fAbstimmung mit dem Auftraggeber und Festlegen der Anforderungen an die SoftwarelösungfDokumentation der Anforderungen und sachgerechte Aufbereitung, z. B. UML-DiagrammefBerücksichtigung von Rahmenbedingungen, z.B.:●Umfang der gespeicherten Daten ●Typen und Formate der vorliegenden Daten ●Schnittstellen zu anderen Systemen ●erforderliche Zugriffsmöglichkeiten, Bereitstellung und Ausgabe"
+                        },
+                        {
+                            "inhalt":"Programmiersprachen   auswählen und unterschiedliche Programmiersprachen anwenden",
+                            "beschreibung":"fBerücksichtigung des Anwendungsfalls und der Plattform bei der Auswahl der Programmiersprache, z. B.:●Webanwendungen●Desktopanwendung●Nutzung von mobilen EndgerätenfBerücksichtigung von Sicherheits- und LizenzvorgabenfBerücksichtigung unterschiedlicher Aspekte bei der Auswahl und Anwendung von Programmiersprachen, z. B.:●vorhandene Systemumgebung●Problemstellung ●Komplexität●Schnittstellen●zur Verfügung stehende Bibliotheken"
+                        }
+                    ]
+                }
+            ]
+        },
+        "schritt b":
+        {
+            "Thema":"berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwicklung",
+            "ThemenBereiche":
+            [
+                {
+                    "nummer":1,
+                    "name":"Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen",
+                    "wochen":"15",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Vorgehensmodelle und -methoden sowie Entwicklungsumgebungen und -bibliotheken auswählen und einsetzen",
+                            "beschreibung":"fDarstellung des Entwicklungsprozesses einer Software aus Projektsicht, z. B. anhand:●Wasserfallmodell●Spiralmodell●V-Modell fBeschreiben der agilen Vorgehensmethoden bei der Softwareentwicklung fEntwicklungsumgebungen zur Softwareentwicklung beschreiben und Bibliotheken zur Entwicklung im betrieblichen Alltag nutzen können"
+                        },
+                        {
+                            "inhalt":"Analyse- und Designverfahren anwenden",
+                            "beschreibung":"fstrukturierte Analyse- und Designverfahren, z.B.:●Top-down-Entwurf●Bottom-up-Entwurffobjektorientierte Analyse- und Designverfahren, z. B.:●Use-Case-Darstellung●Klassen-Darstellung"
+                        },
+                        {
+                            "inhalt":"Benutzerschnittstellen   ergonomisch gestalten und an Kundenanforderungen anpassen",
+                            "beschreibung":"fgrundlegende Gestaltungsvorgaben, z. B.  EN ISO 9241-110 fffnotwendige Kundenanforderungen, z. B.:●Corporate Identity●Barrierefreiheit●Zugriffsberechtigungen"
+                        }
+                    ]
+                },
+                {
+                    "nummer":2,
+                    "name":"Sicherstellen der Qualität von Softwareanwendungen",
+                    "wochen":"5",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen berücksichtigen",
+                            "beschreibung":"fUmsetzen von Verschlüsselungssystemen, z. B.:●symmetrischen Verschlüsselungssysteme●asymmetrischen Verschlüsselungssysteme●HybridverfahrenfEinordnen von ●digitaler Signatur●digitalem ZertifikatfBedeutung von Security By Design ●für die Gesellschaft●für Anwender von Software●für Hersteller von Software"
+                        },
+                        {
+                            "inhalt":"Datenintegrität mithilfe von Werkzeugen sicherstellen",
+                            "beschreibung":"fImplementation von Werkzeugen zur Sicherstellung der Datenintegrität ●referentielle Integrität●TransaktionssicherheitfFestlegen und Implementation von Sicherheitsmechanismen, insbesondere Zugriffsmöglichkeiten und Zugriffsrechte"
+                        },
+                        {
+                            "inhalt":"Modultests erstellen und durchführen",
+                            "beschreibung":"fPrüfen der korrekten Umsetzung der technischen Vorgaben (funktionale als auch nichtfunktionale Anforderungen, Architektur, Programmierrichtlinien) unter Einhaltung der formalen Aspekte (Feldlänge, Syntax, etc.)fFestmachen der Softwarequalität an den Kriterien ●Funktionalität●Zuverlässigkeit●Benutzbarkeit●Effizient●Wartungsfreundlichkeit●Übertragbarkeit"
+                        }
+                    ]
+                }
+            ]
+        },
+        "schritt f":
+        {
+            "Thema":"fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten",
+            "ThemenBereiche":
+            [
+                {
+                    "nummer":1,
+                    "name":"Berufsbildung sowie Arbeits- und Tarifrecht",
+                    "wochen":"all",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"wesentliche Inhalte und Bestandteile des Ausbildungsvertrages darstellen, Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der Beteiligten im dualen System beschreiben",
+                            "beschreibung":"fInhalte des Ausbildungsvertrages (§ 10 f. BBiG): ●Beginn und Dauer der Ausbildung●sachliche und zeitliche Gliederung der Berufsausbildung, Dauer der täglichen Arbeitszeit●Probezeit●Vergütungs- und Urlaubsregelungen●Kündigungsbedingungen●Folgen bei Nichteinhaltung der Rechte und PflichtenfVorteile der Ausbildung im dualen System der Berufsbildungfunterschiedliche Lernorte, auf regionaler Ebene Zusammenwirken von Betrieb und Berufsschule z. B.:●Absprachen●Arbeitskreise●Abstimmung des Zeitpunkts der Vermittlung der InhaltefAufgaben von Ausbildungsbetrieb, Berufsschule und Kammern im Rahmen der BerufsausbildungfRegelungstatbestände in Ausbildungsordnung, Tarifvertrag, Ausbildungsvertrag"
+                        },
+                        {
+                            "inhalt":"den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen",
+                            "beschreibung":"fAusbildungsrahmenplan, sachliche und zeitliche GliederungfZuordnung der Lernziele des Ausbildungsrahmenplans zu den Inhalten des betrieblichen Ausbildungsplans, unter Berücksichtigung betrieblicher BesonderheitenfEinsatz- und Versetzungsplan im BetriebfRahmenplan für die berufsschulische Ausbildung"
+                        },
+                        {
+                            "inhalt":"arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für den Arbeitsbereich geltende Tarif- und Arbeitszeitregelungen beachten",
+                            "beschreibung":"fGrundsätze des Individual- und KollektivarbeitsrechtesfKenntnis der Arbeitnehmerrechte und -pflichten im BetriebfKenntnis der wesentlichen Bestimmungen aus den relevanten Rechtsgebieten: ●Berufsbildungsgesetz●Arbeitsschutzgesetz●Jugendarbeitsschutzgesetz●Arbeitsstättenverordnung, Arbeitszeitgesetz, Betriebsverfassungsgesetz●Betriebsvereinbarungen (z. B. betriebliche Arbeitszeitreglung, betriebliches Beurteilungsverfahren)●Sozialversicherung●Lohnsteuer●MutterschutzgesetzfTarifverträge (Tarifverhandlung, Arbeitgeberverband, Gewerkschaft, Arbeitskampf, Schlichtung, Tarifautonomie, Tarifbindung)"
+                        },
+                        {
+                            "inhalt":"Positionen der eigenen Entgeltabrechnung erklären",
+                            "beschreibung":"fBrutto/NettofLohnsteuer, KirchensteuerfSozialabgabenfvermögenswirksame LeistungenfVorschuss/Zuschüssefgeldwerte Vorteile"
+                        },
+                        {
+                            "inhalt":"Chancen und Anforderungen des lebensbegleitenden Lernens für die berufliche und persönliche Entwicklung begründen und die eigenen Kompetenzen weiterentwickeln",
+                            "beschreibung":"fErwerb von Grund- und Fachqualifikationen für Persönlichkeits- und Berufsentwicklungfberufliches Fortkommen, Aufstiegspositionen für IT-Berufe, Entwicklung und Aufstieg im Unternehmen [Kapitel 1.5]fGründe für lebensbegleitendes Lernen, z. B.:●technischer Wandel●beruflicher Aufstieg/Karriere●Arbeitsplatzsicherung●persönliche InteressenfUmgang mit Veränderungen, positive Einstellung zum Lernen, zur Weiterbildung und zur PersönlichkeitsentwicklungfReflexions- und SelbstlernfähigkeitfRegelungen und Möglichkeiten für interne und externe Weiterbildung in Betrieb und Branche, evtl. tarifvertragliche RegelungenfBildungseinrichtungen für ITfpersönliche Weiterbildung: Studium von Fachliteratur, Selbstlernmaterialien (z. B. Online-Kurse), Fachmessen"
+                        },
+                        {
+                            "inhalt":"Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden und beruflich relevante Informationsquellen nutzen",
+                            "beschreibung":"fLerntechniken: ●visuelles Lernen, z. B. Lernposter mit Mindmaps, Schaubilder, Grafiken erstellen, Videos ansehen, eigene Zusammenfassungen und Lernkarteien schreiben●auditives Lernen, z. B. Lerngruppen bilden, Vorträge anhören, Lerninhalte aufnehmen und abspielen●kommunikatives Lernen, z. B. Dialoge, Diskussionen, Lerngruppen, Frage-Antwort-Spiele●motorisches Lernen, z. B. „learning by doing”, Rollenspiele, GruppenaktivitätenfArbeitstechniken, z. B.: ●Zeitmanagementtechniken●Moderations- und Präsentationstechniken●Arbeitsplanung- und Projektplanungstechnikenfeigene Lernstrategien passend zum eigenen Lerntyp entwickeln, verschiedene Arbeitstechniken erlernenfGestaltung eines lernförderlichen und das Lernen integrierenden ArbeitsplatzesfBeschaffung, Auswahl und Auswertung von Fachinformationenfdigitale Lernmedien nutzen und individuell bewerten, z. B.: ●Internet●Apps●Plattformen (Kommunikation, Information, Videos, Austausch)●Netzwerke●Computer Based Training (CBT)●Web Based Training (WBT)●Umgang mit mobilen Endgeräten"
+                        },
+                        {
+                            "inhalt":"berufliche Aufstiegs- und Weiterentwicklungsmöglichkeiten darstellen",
+                            "beschreibung":"fsiehe hierzu insbesondere [Kapitel 1.5] „Karriere und Weiterbildung“fRegelungen und Möglichkeiten für interne und externe Weiterbildung in Betrieb und Branche, evtl. tarifvertragliche RegelungenfBildungseinrichtungenfAuslandsaufenthalte, z. B. mit Hilfe von EU-Förderprogrammenfpersönliche Weiterbildung: Studium von Fachliteratur, Selbstlernmaterialien, FachmessenfEntwicklung bezüglich Eigenständigkeit, Verantwortung, Reflexivität, Lernkompetenz, Team- und Führungsfähigkeit, Mitgestaltung, Kommunikation"
+                        }
+                    ]
+                },
+                {
+                    "nummer":2,
+                    "name":"Aufbau und Organisation des Ausbildungsbetriebes",
+                    "wochen":"all",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"die Rechtsform und den organisatorischen Aufbau des Ausbildungsbetriebes mit seinen Aufgaben und Zuständigkeiten sowie die Zusammenhänge zwischen den Geschäftsprozessen erläutern",
+                            "beschreibung":"fBranchenzugehörigkeitfTarifbindungfRechtsformfUnternehmensstruktur und OrganisationsformfArbeitnehmervertretungfProduktpalette und MärktefArbeitsabläufefAufgabenteilungfInnerbetriebliche Organisation, Abteilungen"
+                        },
+                        {
+                            "inhalt":"Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen",
+                            "beschreibung":"fbranchenspezifische Gewerkschaften und ArbeitgeberverbändefWirtschaftsorganisationenfberufsständische Vertretungen und Organisationenfzuständige Stellen und Behörden und deren Ziele und AufgabenfOrganisationsstrukturen und Aufgaben von●Behörden und Verwaltungen●Berufsverbänden und Kammern●Gewerkschaftenfehrenamtliche Mitwirkung, z. B. Prüfungsausschuss"
+                        },
+                        {
+                            "inhalt":"Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des Ausbildungsbetriebes beschreiben",
+                            "beschreibung":"fGrundsatz der vertrauensvollen Zusammenarbeit zwischen Arbeitgeber- und Arbeitnehmervertretern als Inhalt des BetriebsverfassungsgesetzesfBetriebsrat, Jugend- und Auszubildendenvertreter und deren Informations-, Beratungs- und Mitbestimmungsrechte, Betriebsvereinbarungen bzw. Personalvertretung auf Grundlage des Personalvertretungsgesetzes"
+                        }
+                    ]
+                },
+                {
+                    "nummer":3,
+                    "name":"Sicherheit und Gesundheitsschutz bei der Arbeit",
+                    "wochen":"all",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen",
+                            "beschreibung":"fGesundheits- und Arbeitsschutzvorschriften:●Arbeitsschutzgesetz●Arbeitssicherheitsgesetz●Arbeitszeitgesetz●Betriebssicherheitsverordnung●ArbeitsstättenverordnungfGefährdungen und Beanspruchungen wahrnehmen und einschätzen: mechanisch, elektrisch, thermisch, chemisch, ergonomisch, akustisch, psychischfGefahren beachten und ggf. meldenfSicherheitshinweise,  Vorschriften  und Anweisungen beachtenfbesondere Fürsorgepflicht des ArbeitgebersfErsthelfer am ArbeitsplatzfAufgaben der Sicherheitsbeauftragtenfergonomische Arbeitsplatzgestaltung,fVorsorgeuntersuchungen, z. B. Augenuntersuchung für Bildschirmarbeitsplätze, psychische GefährdungsbeurteilungfSensibilität gegenüber Gesundheits- und Sicherheitsgefährdungen auch während des Einsatzes in fremden Bereichen, z. B. IT-Betreuung in Produktionsbereichen"
+                        },
+                        {
+                            "inhalt":"berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden",
+                            "beschreibung":"fVorschriften im betrieblichen und persönlichen Arbeitsablauf anwendenfsachgerechter Umgang mit Gefahrenpotenzialenfregelmäßige Reflexion über Gefahren durch RoutinefErfolgsfaktoren zur langfristigen physiologischen und psychischen Gesunderhaltungfallgemeine und betriebliche Verhaltensregeln, Wissen über Fluchtwege, Erste Hilfe, Notrufnummern, Notausgänge (Kennzeichnung), Sammelplätzefim Gebäude/am Arbeitsplatz: Brandschutzmittel, Feuerlöscher (Standort, Bedienungsanleitung, Wirkungsweise)"
+                        },
+                        {
+                            "inhalt":"Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten",
+                            "beschreibung":"fErste-Hilfe-MaßnahmenfErsthelfer, Notruf- und Notfallnummern,fMeldekettenfFluchtwege und SammelplätzefEvakuierung und DokumentationfMeldepflicht von Unfällen"
+                        },
+                        {
+                            "inhalt":"Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen",
+                            "beschreibung":"fBrandursachen durch brennbare Stoffe und Hitzeentwicklung, z. B. nicht ausgeschaltete Heißwasserkocher und KaffeemaschinenfBrandschutzordnungfVerhalten in Brandfällen, z. B. Verbot zur Fahrstuhlnutzung, Schließen von Türen und Fensternfim Gebäude/am Arbeitsplatz: Brandschutzmittel, Feuerlöscher (Standort, Bedienungsanleitung, Wirkungsweise), LöschdeckenfSammelplätze"
+                        }
+                    ]
+                },
+                {
+                    "nummer":4,
+                    "name":"Umweltschutz",
+                    "wochen":"all",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären",
+                            "beschreibung":"fUmweltbelastungen wahrnehmen und vermeiden oder mindestens abmildern, z.B. durch Lärm, Schmutz: Abluft, Abwasser, gefährdende Stoffefspezifische Risiken der IT-Prozesse sowie von IT-beteiligten Prozessen, z. B. USV-Anlagen frationelle Energie- und Ressourcenverwendung (unnötige Gerätelaufzeiten vermeiden, Umgang mit Speicher- und Printmedien)fWiederverwertung (Recycling)fAbfalltrennung und -vermeidungfSensibilität für Umweltbelastungen auch in peripheren Arbeitsbereichen"
+                        },
+                        {
+                            "inhalt":"für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden",
+                            "beschreibung":"fUmgang mit Abfällen, insbesondere branchenspezifischen, z. B.  Erfassung, Lagerung und Entsorgung von z. B. Datenträgern oder KabelnfTeilnahme am Dualen System im Hinblick auf VerpackungsentsorgungfImmissionsschutzgesetz, technische Anleitungen, z. B. zu Lärm, Luft, Abfallfim Rahmen von Nachhaltigkeit sind auch Auswirkungen auf Umwelt, Pflanzen, Tiere, Lebensräume zu reflektieren"
+                        },
+                        {
+                            "inhalt":"Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen",
+                            "beschreibung":"fenergie- und materialsparendes Gestalten und Implementieren von Software sowie intelligente Datennutzung (insbesondere bei prozessübergreifenden Anlagen und Systemen)fBerücksichtigen wirtschaftlicher Nachhaltigkeit bereits bei Einkauf und Lieferantenauswahlfsparsamer und effektiver Umgang mit Roh-, Hilfs- und Betriebsstoffen (ggf. erforderliche Kennzeichnung und getrennte Lagerung beachten)fRessourcenverbrauch und Umweltschutz in Kombination denken, z. B. Nutzung von Strom aus regenerativen Quellenfachtsamer Umgang mit Wärme, Klima und BeleuchtungfVermeidung von Leckagen, z. B. offene Fenster bei aktiver Klimatisierung"
+                        },
+                        {
+                            "inhalt":"Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen",
+                            "beschreibung":"fAbfallvermeidung und -reduzierung, z. B. Mehrweg in Abhängigkeit der jeweiligen BetriebsbereichefReststoffe und Abfälle kennzeichnen, getrennt lagern, verwerten und entsorgenfRechtsfolgen bei Nichteinhaltung, Vorschuss, Zuschüsse"
+                        }
+                    ]
+                },
+                {
+                    "nummer":5,
+                    "name":"Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien",
+                    "wochen":"3",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"gegenseitige Wertschätzung unter Berücksichtigung gesellschaftlicher Vielfalt bei betrieblichen Abläufen praktizieren",
+                            "beschreibung":"fInterdisziplinarität, InterkulturalitätfBewusstsein, dass unterschiedliche Meinungen und Darstellungen vielfach aus der Ausführung unterschiedlicher betrieblicher Disziplinen resultieren (Inter- und Multidisziplinarität)fFähigkeit, effektiv, integer und respektvoll mit verschiedenen Teams zusammenzuarbeitenfWin-win-Lösungen anstrebenfFlexibilität und Bereitschaft zeigen, hilfreiche Kompromisse zu schließen, um ein gemeinsames Ziel zu erreichenfÜbernahme gemeinsamer Verantwortung für die Zusammenarbeit und Wertschätzung der einzelnen Beiträge jedes TeammitgliedsfUnternehmenswerte beachten und betriebliche Ethikregeln anwenden"
+                        },
+                        {
+                            "inhalt":"Strategien zum verantwortungsvollen Umgang mit digitalen Medien anwenden und im virtuellen Raum unter Wahrung der Persönlichkeitsrechte Dritter zusammenarbeiten",
+                            "beschreibung":"finformationstechnische Schutzziele: Integrität, Vertraulichkeit und Authentizität berücksichtigenfStandards des BSI beachten und einhaltenfbetriebliche Regelungen kennen und beachtenfReflexion von Erfahrungen in virtuellen Räumen"
+                        },
+                        {
+                            "inhalt":"insbesondere bei der Speicherung, Darstellung und Weitergabe digitaler Inhalte die Auswirkungen des eigenen Kommunikations- und Informationsverhaltens berücksichtigen",
+                            "beschreibung":"finformationstechnische Schutzziele: Verfügbarkeit, Integrität, Vertraulichkeit und Authentizität berücksichtigenfim Umgang mit Kommunikation und Information Zuständigkeitsabgrenzung verdeutlichenfNachrichten und Inhalte auch aus Sicht der Empfänger betrachtenfsensibler Umgang mit Adressatenlisten in der digitalen Kommunikationfdie möglichen (auch juristischen) Konsequenzen von Äußerungen über den eigenen Arbeitgeber in sozialen Netzwerken berücksichtigen"
+                        },
+                        {
+                            "inhalt":"bei der Beurteilung, Entwicklung, Umsetzung und Betreuung von IT-Lösungen ethische Aspekte reflektieren",
+                            "beschreibung":"f„Diversity“ gewährleisten und unterschiedliche Perspektiven und Befindlichkeiten berücksichtigen fGender-Neutralität gewährleisten, aber auch z.B. das dritte Geschlecht berücksichtigenfim Zentrum ethischer Aspekte steht die Würde aller Menschen sowie deren Integrität – diese ist für alle direkt und indirekt Betroffenen der IT-Lösungen kurz-, mittel- und langfristig zu gewährleistenfReflexion der Auswirkungen auf alles Lebendige (Umwelt, Pflanzen, Tiere, Lebensräume)fBerücksichtigung betrieblicher Compliance-Regelungen"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "19-36":
+    {
+        "schritt a":
+        {
+            "Thema":"berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten",
+            "ThemenBereiche":
+            [
+                {
+                    "nummer":1,
+                    "name":"Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen Geschäfts- und Leistungsprozessen",
+                    "wochen":"0",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"-",
+                            "beschreibung":"-"
+                        }
+                    ]
+                },
+                {
+                    "nummer":2,
+                    "name":"Informieren und Beraten von Kunden und Kundinnen",
+                    "wochen":"2",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Gespräche situationsgerecht führen und Kunden und Kundinnen unter Berücksichtigung der Kundeninteressen beraten",
+                            "beschreibung":"fAnwenden von Kommunikations- und ArgumentationstechnikenfKundengespräche strukturiert vorbereiten, durchführen und nachbereiten"
+                        },
+                        {
+                            "inhalt":"Kundenbeziehungen unter Beachtung rechtlicher Regelungen und betrieblicher Grundsätze gestalten",
+                            "beschreibung":"fkonsequente Kundenausrichtung und systematische Gestaltung der Kundenbeziehungsprozesse („Relationship Marketing“)fDokumentation und Verwaltung von Kundenbeziehungen („Customer Relationship Management“)fBerücksichtigung der geltenden Compliance-Regelungen, Ethik"
+                        },
+                        {
+                            "inhalt":"Daten und Sachverhalte interpretieren, multimedial aufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Berücksichtigung der betrieblichen Vorgaben präsentieren",
+                            "beschreibung":"fAnwendung und Einarbeitung in marktübliche PräsentationssoftwarefVor- und Nachbereitung einer PräsentationfElemente einer Präsentation beherrschen, z. B.:●Visualisierungsregeln●FarbwirkungfRhetorikgrundlagen, z. B.:●Atem- und Sprechtechnik●Rede- und Vortragstechnik"
+                        }
+                    ]
+                },
+                {
+                    "nummer":3,
+                    "name":"Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen",
+                    "wochen":"5",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"technologische Entwicklungstrends von IT-Systemen feststellen sowie ihre wirtschaftlichen, sozialen und beruflichen Auswirkungen aufzeigen",
+                            "beschreibung":"fIdentifikation von Trends unter Berücksichtigung von Such- und InnovationsfeldernfBeschaffen von Informationen über Auswirkungen auf das eigene Unternehmen, die Branche und die GesellschaftfMaßnahmen zur aktiven Information durch Newsfeeds oder Newsletter einleiten"
+                        },
+                        {
+                            "inhalt":"Veränderungen von Einsatzfeldern für IT-Systeme aufgrund technischer, wirtschaftlicher und gesellschaftlicher Entwicklungen feststellen",
+                            "beschreibung":"fNutzen geeigneter Informationsquellen, z. B. Fachmessen, Fachforen im Internet, um neue Trends und Einsatzfelder wahrzunehmen fAnwendung von IT-Systemen auf neue Einsatzgebiete prüfen"
+                        }
+                    ]
+                },
+                {
+                    "nummer":4,
+                    "name":"Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+                    "wochen":"7",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"systematisch Fehler erkennen, analysieren und beheben",
+                            "beschreibung":"fübergeordneter Problemlösungsprozess1. Problemverständnis und -beschreibung (Define)2. Problemanalyse und Ursachensuche (Measure)3. Lösungssuche und -auswahl (Analyse)4. Lösungsrealisierung und -bewertung (Improve)5. Überprüfung der Wirksamkeit (Control)fverschiedene Methoden, insbesondere in den Stadien „Ursachensuche“ und „Analysieren“, kennen und anwenden, z. B.:Ursachensuche:●6-W-Fragetechnik●Störungsmatrix●Histogramm●Verlaufsdiagramm●Korrelationsdiagramm,Analysieren:●Brainstroming/-writing●Flussdiagramm●Ishikawa-Diagramm●Variablenvergleich●Messsystemanalyse●Komponententausch●Einsatz von DebuggernfLösungsrealisierung bzw. Fehlerbehebung selbst vornehmen oder veranlassen und begleitenfGrundlagen/Methoden des Qualitätsmanagements und einer vorbeugenden Qualitätssicherung bei IT-Systemen kennen und anwenden"
+                        },
+                        {
+                            "inhalt":"Algorithmen formulieren und Anwendungen in einer Programmiersprache erstellen",
+                            "beschreibung":"fAlgorithmus: präzise (eigentlich von IT-Systemen unabhängige) Formulierung einer Verarbeitungsvorschriftfgrundlegende Algorithmen kennen, eigene Algorithmen auch programmiersprachenfrei formulieren und zur Lösung von Problemen, z. B. in einem IT-System bzw. einer Softwareanwendung einsetzenfEntwickeln und Darstellen von Programmlogiken unabhängig von der Programmiersprache, z.B. mithilfe von Struktogrammen nach Nassi-Shneidermann sowie Strukturdiagrammen und Verhaltensdiagrammen aus der UMLfErstellen von Spezifikationen von Daten- und Programmstrukturen auf angemessenem AbstraktionsniveaufNutzung von Prinzipien einer systematischen Programmierung nutzen (Strukturierung, Modularisierung, Mehrfachverwendung, Standardisierung) fBeachten von Qualitätskriterien beim Programmieren (Korrektheit, Robustheit, Performanz, Wartbarkeit, Energieeffizienz) mit branchentypischen Werkzeugen, Editoren, Entwicklungsumgebungen"
+                        },
+                        {
+                            "inhalt":"Datenbankmodelle unterscheiden, Daten organisieren und speichern sowie Abfragen erstellen",
+                            "beschreibung":"fverschiedene Datenbankmodelle, z. B.:●hierarchisches Modell●Entity-Relationship-Modell●semantische Datenmodelle●objektorientierte Datenmodelle,als theoretische Grundlage für eine Datenbank kennen und nach Einsatzszenario unterscheidenfPhasen der Datenbankentwicklung kennen und anwenden 1. externe Phase (Informationsbeschaffung) 2. konzeptionelle Phase (Semantisches Modell) 3. logische Phase (Datenmodell) 4. physische Phase (Datenbankschema)fBasiswissen zu verschiedenen Datenbankarchitekturen fGrundlagen der Datenmodellierung anwenden, z. B.:●Entitäten●Relationsbeziehungen●Normalisierung●IdentifikationsschlüsselfSQL als normierte Sprache für die weit verbreiteten relationalen Datenbanken zum Bearbeiten (Einfügen, Verändern, Löschen) und Abfragen von darauf basierenden Datenbeständen anwenden"
+                        }
+                    ]
+                },
+                {
+                    "nummer":5,
+                    "name":"Durchführen und Dokumentieren von qualitätssichernden Maßnahmen ",
+                    "wochen":"8",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Ursachen von Qualitätsmängeln systematisch feststellen, beseitigen und dokumentieren",
+                            "beschreibung":"fQualitätsplanung (Ist-Zustand ermitteln und Ziel-Zustand festlegen)fQualitätslenkung (Umsetzung der Planphase)fverschiedene Prüfverfahren kennen und bewerten, z. B. auf Parität, RedundanzfGrundkenntnisse in der Stochastik (Berechnung von Wahrscheinlichkeiten bei Qualitätsmängeln)"
+                        },
+                        {
+                            "inhalt":"im Rahmen eines Verbesserungsprozesses die Zielerreichung kontrollieren, insbesondere einen Soll-Ist-Vergleich durchführen",
+                            "beschreibung":"fQualitätssicherung (Auswertung relevanter Informationen)fQualitätsgewinn (weitere Umsetzung und Mitteilen der gewonnenen Informationen an die betroffenen Stellen)fQualitätsmanagement als selbstreferenziellen Prozess begreifen (die Verfahren zur Verbesserung lassen sich auch auf den Qualitätsmanagementprozess selbst anwenden)"
+                        }
+                    ]
+                },
+                {
+                    "nummer":6,
+                    "name":"Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz",
+                    "wochen":"6",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Bedrohungsszenarien erkennen und Schadenspotenziale unter Berücksichtigung wirtschaftlicher und technischer Kriterien einschätzen",
+                            "beschreibung":"funterschiedliche Gefahrenquellen, z. B.:●Stromausfall●Überhitzung●Virenbefallfgeeignete Gegenmaßnahmen, z. B.:●USV-Anlagen●Klimageräte●FirewallsAusbildung Gestalten  | Fachinformatiker/Fachinformatikerin40Lfd.Nr.Teil des Ausbildungsberufsbildes/ zu vermittelnde Fertigkeiten, Kenntnisse und FähigkeitenZeitliche Richtwerte in Wochen imErläuterungen1.–18. Monat19.–36. Monatffür jede Anwendung und die verarbeiteten Informationen: Betrachtung zu erwartender Schäden, die bei einer Beeinträchtigung von Vertraulichkeit, Integrität oder Verfügbarkeit entstehen könntenfrealistische Einschätzung von FolgeschädenfEinteilung in die drei Schutzbedarfskategorien „normal“, „hoch“ und „sehr hoch“ (analog IT-Grundschutz des BSI)"
+                        },
+                        {
+                            "inhalt":"Kunden und Kundinnen im Hinblick auf Anforderungen an die IT-Sicherheit und an den Datenschutz beraten",
+                            "beschreibung":"fInformationspflichten zu:●Produkten●Namens- und Markenrecht●Urheber- und Nutzungsrecht●Persönlichkeitsrecht●unlauterer WettbewerbfIT-Sicherheitsregeln fverschiedene IT-SicherheitszertifizierungenfBundesamt für Sicherheit in der Informationstechnik (BSI) als Informationsplattform fDatenschutzgrundverordnung (DSGVO)fBasis-Sicherheitscheck für schnellen Überblick über das vorhandene IT-Sicherheitsniveau, z. B. als Soll/Ist-Abgleich der noch fehlenden Maßnahmen oder Interviews über den Status quo eines bestehenden Informationsverbundesfergänzende Sicherheitsanalyse mit Risikoanalyse (BSI-Standards 100-3)"
+                        },
+                        {
+                            "inhalt":"Wirksamkeit und Effizienz der umgesetzten Maßnahmen zur IT-Sicherheit und zum Datenschutz prüfen",
+                            "beschreibung":"fSicherheitstest einzelner Rechner oder Netzwerke jeglicher Größe, z. B. durch Penetrationstest (auch Social-Engineering-Penetrationstest) gem. Klassifikationsschema des BSIfDurchführung in einem fünfstufigen Prozess:●Vorbereitungsphase●Informationsbeschaffung●Bewertung der Informationen●Versuch des aktiven Eindringens●Auswertung der Ergebnissefmögliche Software, Portscanner, Sniffer, Paketgeneratoren, Passwortcracker, Verbindungsinterceptoren, Vulnerability Scanner etc. (siehe auch Open Vulnerability Assessment System – OpenVAS - unterstützt durch das BSI)"
+                        }
+                    ]
+                },
+                {
+                    "nummer":7,
+                    "name":"Erbringen der Leistungen und Auftragsabschluss",
+                    "wochen":"0",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"-",
+                            "beschreibung":"-"
+                        }
+                    ]
+                },
+                {
+                    "nummer":8,
+                    "name":"Betreiben von IT-Systemen",
+                    "wochen":"3",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Störungsmeldungen   aufnehmen und analysieren sowie Maßnahmen zur Störungsbeseitigung ergreifen",
+                            "beschreibung":"fAuswerten, Dokumentieren und Weiterleiten von Informationen und StörungsmeldungenfErgreifen von Maßnahmen zur Problembeseitigung und ggf. fachlicher Austausch mit Systemlieferantenfggf. Weiterleitung zur jeweiligen Fachabteilung oder Systemspezialisten"
+                        },
+                        {
+                            "inhalt":"Dokumentationen   zielgruppengerecht und barrierefrei anfertigen, bereitstellen und pflegen, insbesondere technische Dokumentationen, System- sowie Benutzerdokumentationen",
+                            "beschreibung":"fErstellen und Erweitern von Handbüchern für Benutzer und Systembetreuer fBerücksichtigung der Komplexität und Verständlichkeit bei der Nutzung von Herstellerdokumentationen zur Bereitstellung für den Anwender"
+                        }
+                    ]
+                },
+                {
+                    "nummer":9,
+                    "name":"Inbetriebnehmen von Speicherlösungen",
+                    "wochen":"5",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Sicherheitsmechanismen, insbesondere Zugriffsmöglichkeiten und -rechte, festlegen und implementieren",
+                            "beschreibung":"fImplementierung und Inbetriebnahme des Zugriffs auf lokale und vernetzte Speicherlösungen sowie vernetzten Systemen, z. B.:●SAN●NAS fBerücksichtigung der Organisationsstrukturen im Unternehmen unter Beachtung von örtlichen Vorgaben"
+                        },
+                        {
+                            "inhalt":"Speicherlösungen, insbesondere Datenbanksysteme, integrieren",
+                            "beschreibung":"fBerücksichtigung vorhandener Datenbank- und Speicherkonzepte bei der Integration und Erweiterung von BestandssystemenfInbetriebnahme von Speicherlösungen und Integration von Datenbanksystemen"
+                        }
+                    ]
+                },
+                {
+                    "nummer":10,
+                    "name":"Programmieren von Softwarelösungen ",
+                    "wochen":"10",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Teilaufgaben von IT-Systemen automatisieren",
+                            "beschreibung":"fwiederkehrende Systemabläufe automatisieren und überwachenfherstellerabhängige Skriptbausteine und -sprachen anwenden, z. B.:●Linux ●PowerShellfBerücksichtigung anwendungsspezifischer Möglichkeiten, z. B. MakrosprachefOptmieren und Automatisieren lokaler und netzwerkübergreifender Aufgaben"
+                        }
+                    ]
+                }
+            ]
+        },
+        "schritt b":
+        {
+            "Thema":"berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwicklung",
+            "ThemenBereiche":
+            [
+                {
+                    "nummer":1,
+                    "name":"Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen",
+                    "wochen":"25",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Anwendungslösungen unter Berücksichtigung der bestehenden Systemarchitektur entwerfen und realisieren",
+                            "beschreibung":"fRechnerarchitektur●CPU●BUS●Speicher und deren AdressierungfSoftwarearchitektur●Webservice●Microservices●Model View Controller (MVC)●Model View Presenter (MVP)●Model-View-ViewModel (MVVM)●Service Oriented Architecture (SOA)fverteilte Anwendungen●Webservices●Microservices●Client-Server●CloudfBerücksichtigung bestehender Systeme und Altsysteme"
+                        },
+                        {
+                            "inhalt":"bestehende Anwendungslösungen anpassen",
+                            "beschreibung":"fAnpassung aufgrund kundenspezifischer Anforderungen fAnpassung bzw. Weiterentwicklung bestehender Software an eine neue Umgebung"
+                        },
+                        {
+                            "inhalt":"Datenaustausch zwischen Systemen realisieren und unterschiedliche Datenquellen nutzen",
+                            "beschreibung":"fDefinieren und Modellieren von Datenbankstrukturen, z. B.:●Entity-Relationship-Modell●NormalisierungfErstellen einfacher Abfragen von Datenquellen unter Verwendung einer Abfragesprache, z. B.:●CREATE●ALTER●DROP●RENAME●SELECT●INSERT INTOfBeachten von Schnittstellen zu weiteren SystemenfDatenquellen: nicht nur relationelle und schemafreie Datenbanken wie MySQL, MsSQL und MongoDB, sondern auch z. B. Sensoren, CSV-Dateien"
+                        },
+                        {
+                            "inhalt":"komplexe Abfragen aus unterschiedlichen Datenquellen durchführen und Datenbestandsberichte erstellen",
+                            "beschreibung":"fkomplexe Abfragen, z. B.:●SELECT ...FROM ....WHERE ●SELECT ...FROM ....WHERE... AND oder OR●SELECT ...FROM ....ORDER BY    ASC oder DESC●SELECT DISTINCT FROM ......●JOIN........ ●UPDATE....SET ●DESCRIBE.....●SHOW DATABASES ●SubqueriesfNutzung von Aggregatsfunktionen, z. B.:●COUNT●SUM●AVG"
+                        }
+                    ]
+                },
+                {
+                    "nummer":2,
+                    "name":"Sicherstellen der Qualität von Softwareanwendungen",
+                    "wochen":"7",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Werkzeuge zur Versionsverwaltung einsetzen",
+                            "beschreibung":"fNutzen und Anwenden einschlägiger Systeme, z. B. GitfFunktionen, z. B.:●Commit●Revert●Branch●Merge●Cherry-Pick●Pull/Push"
+                        },
+                        {
+                            "inhalt":"Testkonzepte erstellen und Tests durchführen sowie Testergebnisse bewerten und dokumentieren",
+                            "beschreibung":"fDefinieren von anwendungsgerechten Tests, z.B.:●Blackbox-Test●Whitebox-Test●Funktionstest●Modultest●KlassentestfDefinition der Inhalte eines Tests, z. B.:●Testkonzepte●Testdaten●TestszenariofBeschreiben des Testumfangs, z. B.:●Grenzbelastung●StabilitätfAuswerten von Testergebnissen, z. B. Soll-Ist-Vergleich"
+                        },
+                        {
+                            "inhalt":"Daten und Sachverhalte aus Tests multimedial aufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Beachtung der betrieblichen Vorgaben präsentieren",
+                            "beschreibung":"fPräsentieren von Sachverhalten (auch softwarebasiert) unter Berücksichtigung von z.B.:●Gestaltungsgrundsätzen nach Kundenvorgaben●Dateiformaten"
+                        }
+                    ]
+                }
+            ]
+        },
+        "schritt f":
+        {
+            "Thema":"fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten",
+            "ThemenBereiche":
+            [
+                {
+                    "nummer":1,
+                    "name":"Berufsbildung sowie Arbeits- und Tarifrecht",
+                    "wochen":"all",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"wesentliche Inhalte und Bestandteile des Ausbildungsvertrages darstellen, Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der Beteiligten im dualen System beschreiben",
+                            "beschreibung":"fInhalte des Ausbildungsvertrages (§ 10 f. BBiG): ●Beginn und Dauer der Ausbildung●sachliche und zeitliche Gliederung der Berufsausbildung, Dauer der täglichen Arbeitszeit●Probezeit●Vergütungs- und Urlaubsregelungen●Kündigungsbedingungen●Folgen bei Nichteinhaltung der Rechte und PflichtenfVorteile der Ausbildung im dualen System der Berufsbildungfunterschiedliche Lernorte, auf regionaler Ebene Zusammenwirken von Betrieb und Berufsschule z. B.:●Absprachen●Arbeitskreise●Abstimmung des Zeitpunkts der Vermittlung der InhaltefAufgaben von Ausbildungsbetrieb, Berufsschule und Kammern im Rahmen der BerufsausbildungfRegelungstatbestände in Ausbildungsordnung, Tarifvertrag, Ausbildungsvertrag"
+                        },
+                        {
+                            "inhalt":"den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen",
+                            "beschreibung":"fAusbildungsrahmenplan, sachliche und zeitliche GliederungfZuordnung der Lernziele des Ausbildungsrahmenplans zu den Inhalten des betrieblichen Ausbildungsplans, unter Berücksichtigung betrieblicher BesonderheitenfEinsatz- und Versetzungsplan im BetriebfRahmenplan für die berufsschulische Ausbildung"
+                        },
+                        {
+                            "inhalt":"arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für den Arbeitsbereich geltende Tarif- und Arbeitszeitregelungen beachten",
+                            "beschreibung":"fGrundsätze des Individual- und KollektivarbeitsrechtesfKenntnis der Arbeitnehmerrechte und -pflichten im BetriebfKenntnis der wesentlichen Bestimmungen aus den relevanten Rechtsgebieten: ●Berufsbildungsgesetz●Arbeitsschutzgesetz●Jugendarbeitsschutzgesetz●Arbeitsstättenverordnung, Arbeitszeitgesetz, Betriebsverfassungsgesetz●Betriebsvereinbarungen (z. B. betriebliche Arbeitszeitreglung, betriebliches Beurteilungsverfahren)●Sozialversicherung●Lohnsteuer●MutterschutzgesetzfTarifverträge (Tarifverhandlung, Arbeitgeberverband, Gewerkschaft, Arbeitskampf, Schlichtung, Tarifautonomie, Tarifbindung)"
+                        },
+                        {
+                            "inhalt":"Positionen der eigenen Entgeltabrechnung erklären",
+                            "beschreibung":"fBrutto/NettofLohnsteuer, KirchensteuerfSozialabgabenfvermögenswirksame LeistungenfVorschuss/Zuschüssefgeldwerte Vorteile"
+                        },
+                        {
+                            "inhalt":"Chancen und Anforderungen des lebensbegleitenden Lernens für die berufliche und persönliche Entwicklung begründen und die eigenen Kompetenzen weiterentwickeln",
+                            "beschreibung":"fErwerb von Grund- und Fachqualifikationen für Persönlichkeits- und Berufsentwicklungfberufliches Fortkommen, Aufstiegspositionen für IT-Berufe, Entwicklung und Aufstieg im Unternehmen [Kapitel 1.5]fGründe für lebensbegleitendes Lernen, z. B.:●technischer Wandel●beruflicher Aufstieg/Karriere●Arbeitsplatzsicherung●persönliche InteressenfUmgang mit Veränderungen, positive Einstellung zum Lernen, zur Weiterbildung und zur PersönlichkeitsentwicklungfReflexions- und SelbstlernfähigkeitfRegelungen und Möglichkeiten für interne und externe Weiterbildung in Betrieb und Branche, evtl. tarifvertragliche RegelungenfBildungseinrichtungen für ITfpersönliche Weiterbildung: Studium von Fachliteratur, Selbstlernmaterialien (z. B. Online-Kurse), Fachmessen"
+                        },
+                        {
+                            "inhalt":"Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden und beruflich relevante Informationsquellen nutzen",
+                            "beschreibung":"fLerntechniken: ●visuelles Lernen, z. B. Lernposter mit Mindmaps, Schaubilder, Grafiken erstellen, Videos ansehen, eigene Zusammenfassungen und Lernkarteien schreiben●auditives Lernen, z. B. Lerngruppen bilden, Vorträge anhören, Lerninhalte aufnehmen und abspielen●kommunikatives Lernen, z. B. Dialoge, Diskussionen, Lerngruppen, Frage-Antwort-Spiele●motorisches Lernen, z. B. „learning by doing”, Rollenspiele, GruppenaktivitätenfArbeitstechniken, z. B.: ●Zeitmanagementtechniken●Moderations- und Präsentationstechniken●Arbeitsplanung- und Projektplanungstechnikenfeigene Lernstrategien passend zum eigenen Lerntyp entwickeln, verschiedene Arbeitstechniken erlernenfGestaltung eines lernförderlichen und das Lernen integrierenden ArbeitsplatzesfBeschaffung, Auswahl und Auswertung von Fachinformationenfdigitale Lernmedien nutzen und individuell bewerten, z. B.: ●Internet●Apps●Plattformen (Kommunikation, Information, Videos, Austausch)●Netzwerke●Computer Based Training (CBT)●Web Based Training (WBT)●Umgang mit mobilen Endgeräten"
+                        },
+                        {
+                            "inhalt":"berufliche Aufstiegs- und Weiterentwicklungsmöglichkeiten darstellen",
+                            "beschreibung":"fsiehe hierzu insbesondere [Kapitel 1.5] „Karriere und Weiterbildung“fRegelungen und Möglichkeiten für interne und externe Weiterbildung in Betrieb und Branche, evtl. tarifvertragliche RegelungenfBildungseinrichtungenfAuslandsaufenthalte, z. B. mit Hilfe von EU-Förderprogrammenfpersönliche Weiterbildung: Studium von Fachliteratur, Selbstlernmaterialien, FachmessenfEntwicklung bezüglich Eigenständigkeit, Verantwortung, Reflexivität, Lernkompetenz, Team- und Führungsfähigkeit, Mitgestaltung, Kommunikation"
+                        }
+                    ]
+                },
+                {
+                    "nummer":2,
+                    "name":"Aufbau und Organisation des Ausbildungsbetriebes",
+                    "wochen":"all",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"die Rechtsform und den organisatorischen Aufbau des Ausbildungsbetriebes mit seinen Aufgaben und Zuständigkeiten sowie die Zusammenhänge zwischen den Geschäftsprozessen erläutern",
+                            "beschreibung":"fBranchenzugehörigkeitfTarifbindungfRechtsformfUnternehmensstruktur und OrganisationsformfArbeitnehmervertretungfProduktpalette und MärktefArbeitsabläufefAufgabenteilungfInnerbetriebliche Organisation, Abteilungen"
+                        },
+                        {
+                            "inhalt":"Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen",
+                            "beschreibung":"fbranchenspezifische Gewerkschaften und ArbeitgeberverbändefWirtschaftsorganisationenfberufsständische Vertretungen und Organisationenfzuständige Stellen und Behörden und deren Ziele und AufgabenfOrganisationsstrukturen und Aufgaben von●Behörden und Verwaltungen●Berufsverbänden und Kammern●Gewerkschaftenfehrenamtliche Mitwirkung, z. B. Prüfungsausschuss"
+                        },
+                        {
+                            "inhalt":"Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des Ausbildungsbetriebes beschreiben",
+                            "beschreibung":"fGrundsatz der vertrauensvollen Zusammenarbeit zwischen Arbeitgeber- und Arbeitnehmervertretern als Inhalt des BetriebsverfassungsgesetzesfBetriebsrat, Jugend- und Auszubildendenvertreter und deren Informations-, Beratungs- und Mitbestimmungsrechte, Betriebsvereinbarungen bzw. Personalvertretung auf Grundlage des Personalvertretungsgesetzes"
+                        }
+                    ]
+                },
+                {
+                    "nummer":3,
+                    "name":"Sicherheit und Gesundheitsschutz bei der Arbeit",
+                    "wochen":"all",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen",
+                            "beschreibung":"fGesundheits- und Arbeitsschutzvorschriften:●Arbeitsschutzgesetz●Arbeitssicherheitsgesetz●Arbeitszeitgesetz●Betriebssicherheitsverordnung●ArbeitsstättenverordnungfGefährdungen und Beanspruchungen wahrnehmen und einschätzen: mechanisch, elektrisch, thermisch, chemisch, ergonomisch, akustisch, psychischfGefahren beachten und ggf. meldenfSicherheitshinweise,  Vorschriften  und Anweisungen beachtenfbesondere Fürsorgepflicht des ArbeitgebersfErsthelfer am ArbeitsplatzfAufgaben der Sicherheitsbeauftragtenfergonomische Arbeitsplatzgestaltung,fVorsorgeuntersuchungen, z. B. Augenuntersuchung für Bildschirmarbeitsplätze, psychische GefährdungsbeurteilungfSensibilität gegenüber Gesundheits- und Sicherheitsgefährdungen auch während des Einsatzes in fremden Bereichen, z. B. IT-Betreuung in Produktionsbereichen"
+                        },
+                        {
+                            "inhalt":"berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden",
+                            "beschreibung":"fVorschriften im betrieblichen und persönlichen Arbeitsablauf anwendenfsachgerechter Umgang mit Gefahrenpotenzialenfregelmäßige Reflexion über Gefahren durch RoutinefErfolgsfaktoren zur langfristigen physiologischen und psychischen Gesunderhaltungfallgemeine und betriebliche Verhaltensregeln, Wissen über Fluchtwege, Erste Hilfe, Notrufnummern, Notausgänge (Kennzeichnung), Sammelplätzefim Gebäude/am Arbeitsplatz: Brandschutzmittel, Feuerlöscher (Standort, Bedienungsanleitung, Wirkungsweise)"
+                        },
+                        {
+                            "inhalt":"Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten",
+                            "beschreibung":"fErste-Hilfe-MaßnahmenfErsthelfer, Notruf- und Notfallnummern,fMeldekettenfFluchtwege und SammelplätzefEvakuierung und DokumentationfMeldepflicht von Unfällen"
+                        },
+                        {
+                            "inhalt":"Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen",
+                            "beschreibung":"fBrandursachen durch brennbare Stoffe und Hitzeentwicklung, z. B. nicht ausgeschaltete Heißwasserkocher und KaffeemaschinenfBrandschutzordnungfVerhalten in Brandfällen, z. B. Verbot zur Fahrstuhlnutzung, Schließen von Türen und Fensternfim Gebäude/am Arbeitsplatz: Brandschutzmittel, Feuerlöscher (Standort, Bedienungsanleitung, Wirkungsweise), LöschdeckenfSammelplätze"
+                        }
+                    ]
+                },
+                {
+                    "nummer":4,
+                    "name":"Umweltschutz",
+                    "wochen":"all",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären",
+                            "beschreibung":"fUmweltbelastungen wahrnehmen und vermeiden oder mindestens abmildern, z.B. durch Lärm, Schmutz: Abluft, Abwasser, gefährdende Stoffefspezifische Risiken der IT-Prozesse sowie von IT-beteiligten Prozessen, z. B. USV-Anlagen frationelle Energie- und Ressourcenverwendung (unnötige Gerätelaufzeiten vermeiden, Umgang mit Speicher- und Printmedien)fWiederverwertung (Recycling)fAbfalltrennung und -vermeidungfSensibilität für Umweltbelastungen auch in peripheren Arbeitsbereichen"
+                        },
+                        {
+                            "inhalt":"für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden",
+                            "beschreibung":"fUmgang mit Abfällen, insbesondere branchenspezifischen, z. B.  Erfassung, Lagerung und Entsorgung von z. B. Datenträgern oder KabelnfTeilnahme am Dualen System im Hinblick auf VerpackungsentsorgungfImmissionsschutzgesetz, technische Anleitungen, z. B. zu Lärm, Luft, Abfallfim Rahmen von Nachhaltigkeit sind auch Auswirkungen auf Umwelt, Pflanzen, Tiere, Lebensräume zu reflektieren"
+                        },
+                        {
+                            "inhalt":"Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen",
+                            "beschreibung":"fenergie- und materialsparendes Gestalten und Implementieren von Software sowie intelligente Datennutzung (insbesondere bei prozessübergreifenden Anlagen und Systemen)fBerücksichtigen wirtschaftlicher Nachhaltigkeit bereits bei Einkauf und Lieferantenauswahlfsparsamer und effektiver Umgang mit Roh-, Hilfs- und Betriebsstoffen (ggf. erforderliche Kennzeichnung und getrennte Lagerung beachten)fRessourcenverbrauch und Umweltschutz in Kombination denken, z. B. Nutzung von Strom aus regenerativen Quellenfachtsamer Umgang mit Wärme, Klima und BeleuchtungfVermeidung von Leckagen, z. B. offene Fenster bei aktiver Klimatisierung"
+                        },
+                        {
+                            "inhalt":"Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen",
+                            "beschreibung":"fAbfallvermeidung und -reduzierung, z. B. Mehrweg in Abhängigkeit der jeweiligen BetriebsbereichefReststoffe und Abfälle kennzeichnen, getrennt lagern, verwerten und entsorgenfRechtsfolgen bei Nichteinhaltung, Vorschuss, Zuschüsse"
+                        }
+                    ]
+                },
+                {
+                    "nummer":5,
+                    "name":"Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien",
+                    "wochen":"0",
+                    "unterbereiche":
+                    [
+                        {
+                            "inhalt":"-",
+                            "beschreibung":"-"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
